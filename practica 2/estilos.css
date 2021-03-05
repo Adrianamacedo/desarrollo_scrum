@@ -62,6 +62,17 @@ body {
 
 
 } 
+.Ficha-adri{
+   
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    background-color: #401ddb;
+    width: 400px;
+    display: block 25px;
+    margin: auto;
+    border: #2c0121 10px double;
+    text-align: center;
+    color: #30aac0;
+}
 .Ficha-Enrique{
     font-family: cursive;
     background-color:rgb(197, 235, 135);
